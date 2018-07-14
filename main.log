@@ -1,0 +1,4 @@
+2018-07-13 23:17:36,420 - main.py - ERROR - Uncaught exception: integer division or modulo by zero type: <attribute 'message' of 'exceptions.BaseException' objects> traceback: ['  File "main.py", line 22, in <module>\n    print(main())\n', '  File "main.py", line 17, in main\n    return 1/0\n']
+None
+2018-07-13 23:18:45,388 - main.py - ERROR - Uncaught exception: integer division or modulo by zero type: <attribute 'message' of 'exceptions.BaseException' objects> traceback: ['  File "main.py", line 22, in <module>\n    print(main())\n', '  File "main.py", line 17, in main\n    return 1/0\n']
+None
